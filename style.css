@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#wrapper{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+#my-canvas{
+    background-color: #fff;
+    border: 2px solid red;
+}
